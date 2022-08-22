@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_sports"
+            android:icon="@drawable/ic_sports"
+            android:title="@string/sports" />
+        <item
+            android:id="@+id/nav_technologies"
+            android:icon="@drawable/ic_technologies"
+            android:title="@string/technology" />
+        <item
+            android:id="@+id/nav_politics"
+            android:icon="@drawable/ic_politics"
+            android:title="@string/politics" />
+        <item
+            android:id="@+id/nav_science"
+            android:icon="@drawable/ic_science"
+            android:title="@string/science" />
+        <item
+            android:id="@+id/nav_games"
+            android:icon="@drawable/ic_games"
+            android:title="@string/games" />
+        <item
+            android:id="@+id/nav_music"
+            android:icon="@drawable/ic_music"
+            android:title="@string/music" />
+    </group>
+
+</menu>

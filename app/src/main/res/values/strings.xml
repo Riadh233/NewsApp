@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">News App</string>
+
+    <string name="navigation_view_open">Open navigation view</string>
+    <string name="navigation_view_close">Close navigation view</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_internet">No Internet Connection !</string>
+    <string name="sports">Sports</string>
+    <string name="technology">Technology</string>
+    <string name="politics">Politics</string>
+    <string name="science">Science</string>
+    <string name="games">Games</string>
+    <string name="music">Music</string>
+    <string name="no_recent_news_for_now">No Recent News For Now</string>
+    <string name="page_previous">Previous Page</string>
+    <string name="page_next">Next Page</string>
+</resources>
